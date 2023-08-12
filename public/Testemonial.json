@@ -1,0 +1,21 @@
+[
+    {   
+        "id": 1,
+        "name": "Kane William",
+        "title": "Web Developer ",
+        "comment": " From the intuitive interface to the engaging lessons and supportive community, this app has it all. Every time I open it, I feel inspired and empowered. If you're looking to become a programming yourself, download this app now! Highly recommended !!",
+        "image": "https://images.pexels.com/photos/2955376/pexels-photo-2955376.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {   "id": 2,
+        "name": "Jack Morkel",
+        "title": "Graphics Designer",
+        "comment": "Learning is made super-simple and fun.I'm just in love with this app.I'd recommend it to every aspiring beginner and any intermediate level programmer.It's just awesome",
+        "image": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {   "id": 3,
+        "name": "John Doe",
+        "title": "Affiliate Marketer",
+        "comment": "It’s really a good app and I liked the recently updated version. A recommended app if you’re a beginner and want to learn python. I explored all the similar apps to learn programming, I found it exclusive in the Education category.",
+        "image": "https://images.pexels.com/photos/3778680/pexels-photo-3778680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
